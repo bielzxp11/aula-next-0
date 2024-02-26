@@ -37,7 +37,7 @@ export default function Home() {
           height={37}
           priority
         /> */}
-        <h1>Aula Next</h1>
+        <h1>Aula Next0</h1>
       </div>
 
       <div className={styles.grid}>
