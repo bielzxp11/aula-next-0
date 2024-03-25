@@ -13,7 +13,13 @@ const usuarios = [
     }, 
     {
         id: 3, 
-        nome: 'Cléston Carvalho', 
+        nome: 'Toko Kunavara', 
+        altura: 1.72, 
+        ativo: true
+    }, 
+    {
+        id: 3, 
+        nome: 'Elma Maria', 
         altura: 1.72, 
         ativo: true
     }, 
