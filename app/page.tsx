@@ -9,9 +9,9 @@ export default function Page() {
         Qualquer coisa
         
      <ul>
-     <br/>
-       <li><Link href={'/sobre'}>Sobre</Link></li><br/>
-       <li><Link href={'/CadUsuario'}>Cadastro de Usuario</Link></li>
+       <li><Link href={'/sobre'}>Sobre</Link></li>
+       <li><Link href={'/usuarios/cadastrousuario'}>Cadastro de Usuario</Link></li>
+       <li><Link href={'/usuarios'}>Lista de Usuarios</Link></li>
      </ul>  
     </>
   );
